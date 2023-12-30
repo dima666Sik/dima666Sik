@@ -1,4 +1,4 @@
-<p align="center"><img alt="Intro" style="width:70%; height: 300px; object-fit: cover"
+<p align="center"><img alt="Intro" style="width:100%; height: auto; object-fit: cover;"
                        src="https://media.licdn.com/dms/image/D4D12AQGUCcWRKOHNnQ/article-cover_image-shrink_720_1280/0/1668181558727?e=2147483647&v=beta&t=YoJAxLdJWu873OCLEMrGm_JnB46sZdBRCt9648M-UGc"/></p>
 
 <h1 align="center">Hi 👋, I'm Dmytro Kogol</h1>
@@ -49,7 +49,7 @@ Into README file details info about pet-projects and technology what are used.**
 <br>
 
 - 😊 **All Projects**
-- Explore all of my projects on [GitHub repositories](https://github.com/dima666Sik?tab=repositories).
+  - Explore all of my projects on [GitHub repositories](https://github.com/dima666Sik?tab=repositories).
 
 <!--<br>-->
 <!--<br>-->
