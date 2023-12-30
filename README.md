@@ -1,6 +1,3 @@
-<p align="center"><img alt="Intro"
-                       src="https://media.licdn.com/dms/image/D4D12AQGUCcWRKOHNnQ/article-cover_image-shrink_720_1280/0/1668181558727?e=2147483647&v=beta&t=YoJAxLdJWu873OCLEMrGm_JnB46sZdBRCt9648M-UGc"/></p>
-
 <h1 align="center">Hi 👋, I'm Dmytro Kogol</h1>
 
 <h3 align="center">A enthusiastic about coding a backend developer</h3>
