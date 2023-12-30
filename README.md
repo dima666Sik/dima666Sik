@@ -1,5 +1,4 @@
-<p align="center" style="position: relative;
-      overflow: hidden;"><img alt="Intro" style="width:100%; height: 400px; object-fit: cover; object-position: center top;"
+<p align="center"><img alt="Intro"
                        src="https://media.licdn.com/dms/image/D4D12AQGUCcWRKOHNnQ/article-cover_image-shrink_720_1280/0/1668181558727?e=2147483647&v=beta&t=YoJAxLdJWu873OCLEMrGm_JnB46sZdBRCt9648M-UGc"/></p>
 
 <h1 align="center">Hi 👋, I'm Dmytro Kogol</h1>
