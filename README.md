@@ -45,10 +45,12 @@ Into README file details info about pet-projects and technology what are used.**
     - Hibernate
     - Docker
     - AWS
+
 <br>
-<br>
+
 - 😊 **All Projects**
 - Explore all of my projects on [GitHub repositories](https://github.com/dima666Sik?tab=repositories).
+
 <!--<br>-->
 <!--<br>-->
 <!-- - 📄 Know about my experiences [fail link](fail link)-->
