@@ -1,4 +1,4 @@
-<p align="center"><img alt="Intro" style="width:80%; height: 300px; object-fit: cover"
+<p align="center"><img alt="Intro" style="width:70%; height: 300px; object-fit: cover"
                        src="https://media.licdn.com/dms/image/D4D12AQGUCcWRKOHNnQ/article-cover_image-shrink_720_1280/0/1668181558727?e=2147483647&v=beta&t=YoJAxLdJWu873OCLEMrGm_JnB46sZdBRCt9648M-UGc"/></p>
 
 <h1 align="center">Hi 👋, I'm Dmytro Kogol</h1>
@@ -12,23 +12,23 @@
 ![](https://visitcount.itsvg.in/api?id=dima666Sik&icon=0&color=0)
 
 # 🎯 Pet-Projects:
-- 😋 **[Fast Food Delivery App](https://github.com/dima666Sik/Fast-Food-Delivery-App)**
+- 😋 [Fast Food Delivery App](https://github.com/dima666Sik/Fast-Food-Delivery-App)
   - **Description:**
 <br>
 <br>
-- 🎈 **[App Birthdays](https://github.com/dima666Sik/AppBirthdays)**
+- 🎈 [App Birthdays](https://github.com/dima666Sik/AppBirthdays)
   - **Description:**
 <br>
 <br>
-- 👨‍💻 **[Desktop Chat Messenger](https://github.com/dima666Sik/Desktop-Chat-Messenger)**
+- 👨‍💻 [Desktop Chat Messenger](https://github.com/dima666Sik/Desktop-Chat-Messenger)
   - **Description:** A Client-Server Java chat-messenger application with GUI on both client and server sides. Clients communicate with the server to send/receive messages.
 <br>
 <br>
-- 🤖 **[Telegram bot vacancies](https://github.com/dima666Sik/telegram-bot-vacancies)**
+- 🤖 [Telegram bot vacancies](https://github.com/dima666Sik/telegram-bot-vacancies)
   - **Description:** An application integrating Telegram bot functionalities. It also utilizes the OpenAI API to generate personalized cover letters for the last chosen vacancy by the user. The opencsv library efficiently reads files containing vacancy information.
 <br>
 <br>
-- 🎨 **[FillAllClosedElemsImg](https://github.com/dima666Sik/FillAllClosedElemsImg)**
+- 🎨 [FillAllClosedElemsImg](https://github.com/dima666Sik/FillAllClosedElemsImg)
   - **Description:** This application processes a 40x40 black and white image in .bmp format. It performs a contour search for all objects on the image and fills those objects with a random color.
 
 **Feel free to go on repositories and check them.
