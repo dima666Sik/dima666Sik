@@ -14,20 +14,24 @@
 # 🎯 Pet-Projects:
 - 😋 [Fast Food Delivery App](https://github.com/dima666Sik/Fast-Food-Delivery-App)
   - **Description:**
+  
 <br>
-<br>
+
 - 🎈 [App Birthdays](https://github.com/dima666Sik/AppBirthdays)
   - **Description:**
+
 <br>
-<br>
+
 - 👨‍💻 [Desktop Chat Messenger](https://github.com/dima666Sik/Desktop-Chat-Messenger)
   - **Description:** A Client-Server Java chat-messenger application with GUI on both client and server sides. Clients communicate with the server to send/receive messages.
+
 <br>
-<br>
+
 - 🤖 [Telegram bot vacancies](https://github.com/dima666Sik/telegram-bot-vacancies)
   - **Description:** An application integrating Telegram bot functionalities. It also utilizes the OpenAI API to generate personalized cover letters for the last chosen vacancy by the user. The opencsv library efficiently reads files containing vacancy information.
+
 <br>
-<br>
+
 - 🎨 [FillAllClosedElemsImg](https://github.com/dima666Sik/FillAllClosedElemsImg)
   - **Description:** This application processes a 40x40 black and white image in .bmp format. It performs a contour search for all objects on the image and fills those objects with a random color.
 
