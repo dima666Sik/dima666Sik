@@ -11,7 +11,9 @@
 # 🎯 Pet-Projects:
 
 - 😋 [Fast Food Delivery App](https://github.com/dima666Sik/Fast-Food-Delivery-App)
-    - **Description:**
+    - **Description:** The developed web application provides features enabling users to conveniently place orders and
+      interact with the application based on their roles. Even as a guest on the site, users can still order food,
+      although not all functionalities are available to them.
 
 <br>
 
