@@ -9,55 +9,68 @@
 ![](https://visitcount.itsvg.in/api?id=dima666Sik&icon=0&color=0)
 
 # 🎯 Pet-Projects:
+
 - 😋 [Fast Food Delivery App](https://github.com/dima666Sik/Fast-Food-Delivery-App)
-  - **Description:**
-  
+    - **Description:**
+
 <br>
 
 - 🎈 [App Birthdays](https://github.com/dima666Sik/AppBirthdays)
-  - **Description:**
+    - **Description:** This application is a comprehensive tool for managing and celebrating friends' birthdays.
+      Users can easily add and save birthday dates and personalize their experience with customizable sound alerts.
+      The application reminds users of upcoming birthdays, offering flexibility in setting reminders based on specific
+      hours, minutes, and days.
 
 <br>
 
 - 👨‍💻 [Desktop Chat Messenger](https://github.com/dima666Sik/Desktop-Chat-Messenger)
-  - **Description:** A Client-Server Java chat-messenger application with GUI on both client and server sides. Clients communicate with the server to send/receive messages.
+    - **Description:** A Client-Server Java chat-messenger application with GUI on both client and server sides. Clients
+      communicate with the server to send/receive messages.
 
 <br>
 
 - 🤖 [Telegram bot vacancies](https://github.com/dima666Sik/telegram-bot-vacancies)
-  - **Description:** An application integrating Telegram bot functionalities. It also utilizes the OpenAI API to generate personalized cover letters for the last chosen vacancy by the user. The opencsv library efficiently reads files containing vacancy information.
+    - **Description:** An application integrating Telegram bot functionalities. It also utilizes the OpenAI API to
+      generate personalized cover letters for the last chosen vacancy by the user. The opencsv library efficiently reads
+      files containing vacancy information.
 
 <br>
 
 - 🎨 [FillAllClosedElemsImg](https://github.com/dima666Sik/FillAllClosedElemsImg)
-  - **Description:** This application processes a 40x40 black and white image in .bmp format. It performs a contour search for all objects on the image and fills those objects with a random color.
+    - **Description:** This application processes a 40x40 black and white image in .bmp format. It performs a contour
+      search for all objects on the image and fills those objects with a random color.
 
 **Feel free to go on repositories and check them.
 Into README file details info about pet-projects and technology what are used.**
 
 # A few details about myself
+
 - 🌱 **Learning Journey**
-  - Currently expanding my skills in:
-    - Spring
-    - Hibernate
-    - Docker
-    - AWS
+    - Currently expanding my skills in:
+        - Spring
+        - Hibernate
+        - Docker
+        - AWS
 
 <br>
 
 - 😊 **All Projects**
-  - Explore all of my projects on [GitHub repositories](https://github.com/dima666Sik?tab=repositories).
+    - Explore all of my projects on [GitHub repositories](https://github.com/dima666Sik?tab=repositories).
 
 <!--<br>-->
 <!--<br>-->
 <!-- - 📄 Know about my experiences [fail link](fail link)-->
 
 # 📱 Connect with me
+
 [![Codewars](https://img.shields.io/badge/codewars-black?style=for-the-badge&logo=codewars&logoColor=#B1361E)](https://www.codewars.com/users/lazyness)
+
 ## 📊 Codewars Stats:
+
 ![Codewars](https://github.r2v.ch/codewars?user=lazyness&name=true&top_languages=true&stroke=%23b36244&theme=gradient)
 
 # 💻 Tech Stack:
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/hibernate-black?style=for-the-badge&logo=hibernate&logoColor=#59666C)
@@ -71,6 +84,7 @@ Into README file details info about pet-projects and technology what are used.**
 ![Bootstrap](https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=#7952B3)
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=dima666Sik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dima666Sik&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dima666Sik&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
