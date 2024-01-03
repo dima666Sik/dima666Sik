@@ -71,7 +71,7 @@ Into README file details info about pet-projects and technology what are used.**
 # 📱 Connect with me
 
 [![Codewars](https://img.shields.io/badge/codewars-black?style=for-the-badge&logo=codewars&logoColor=#B1361E)](https://www.codewars.com/users/lazyness)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dmytro-kohol-441a042a7/)
 ## 📊 Codewars Stats:
 
 ![Codewars](https://github.r2v.ch/codewars?user=lazyness&name=true&top_languages=true&stroke=%23b36244&theme=gradient)
