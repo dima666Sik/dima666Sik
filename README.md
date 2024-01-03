@@ -10,14 +10,14 @@
 
 # 🎯 Pet-Projects:
 
-- 😋 [Full-stack RESTful web application for ordering food](https://github.com/dima666Sik/Fast-Food-Delivery-App)
+- 😋 [`Full-stack RESTful web application for ordering food`](https://github.com/dima666Sik/Fast-Food-Delivery-App)
     - **Description:** The developed web application provides features enabling users to conveniently place orders and
       interact with the application based on their roles. Even as a guest on the site, users can still order food,
       although not all functionalities are available to them.
 
 <br>
 
-- 🎈 [Desktop application for reminds users of upcoming birthdays](https://github.com/dima666Sik/AppBirthdays)
+- 🎈 [`Desktop application for reminds users of upcoming birthdays`](https://github.com/dima666Sik/AppBirthdays)
     - **Description:** This application is a comprehensive tool for managing and celebrating friends' birthdays.
       Users can easily add and save birthday dates and personalize their experience with customizable sound alerts.
       The application reminds users of upcoming birthdays, offering flexibility in setting reminders based on specific
@@ -25,26 +25,26 @@
 
 <br>
 
-- 👨‍💻 [Desktop Chat Messenger](https://github.com/dima666Sik/Desktop-Chat-Messenger)
+- 👨‍💻 [`Desktop Chat Messenger`](https://github.com/dima666Sik/Desktop-Chat-Messenger)
     - **Description:** A Client-Server Java chat-messenger application with GUI on both client and server sides. Clients
       communicate with the server to send/receive messages.
 
 <br>
 
-- 🤖 [Telegram bot vacancies with integration the OpenAI API](https://github.com/dima666Sik/telegram-bot-vacancies)
+- 🤖 [`Telegram bot vacancies with integration the OpenAI API`](https://github.com/dima666Sik/telegram-bot-vacancies)
     - **Description:** An application integrating Telegram bot functionalities. It also utilizes the OpenAI API to
       generate personalized cover letters for the last chosen vacancy by the user. The opencsv library efficiently reads
       files containing vacancy information.
 
 <br>
 
-- 🎨 [Painting objects in an image with colors](https://github.com/dima666Sik/FillAllClosedElemsImg)
+- 🎨 [`Painting objects in an image with colors`](https://github.com/dima666Sik/FillAllClosedElemsImg)
     - **Description:** This application processes a 40x40 black and white image in .bmp format. It performs a contour
       search for all objects on the image and fills those objects with a random color.
 
 <br>
 
-- 🎨 [Multi-page website for a massage agency](https://github.com/dima666Sik/HandsTivanSite)
+- 🎨 [`Multi-page website for a massage agency`](https://github.com/dima666Sik/HandsTivanSite)
     - **Description:** This multiple-page application where you can choose massage what do you want to visit.
 
 **Feel free to go on repositories and check them.
