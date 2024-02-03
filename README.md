@@ -44,7 +44,7 @@
 
 <br>
 
-- 🎨 [`Multi-page website for a massage agency`](https://github.com/dima666Sik/HandsTivanSite)
+- 💆‍♀️ [`Multi-page website for a massage agency`](https://github.com/dima666Sik/HandsTivanSite)
     - **Description:** This multiple-page application where you can choose massage what do you want to visit.
 
 **Feel free to go on repositories and check them.
