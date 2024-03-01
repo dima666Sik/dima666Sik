@@ -38,6 +38,15 @@
 
 <br>
 
+- 📚 [`Book House WEB-application`](https://github.com/dima666Sik/book-house/tree/master/book-house-server)
+    - **Description:** This simple project designed to manage, organize and sold books and named as book store with a user-friendly APIs. 
+    - This project is build using Java 17, Hibernate, MySQL Driver, Spring Framework, Spring Security, Spring MVC, Spring AOP, JWT Authentication. The testing was by JUnit5 and Mockito. 
+    - The Logging by Log4j2. 
+    - For execution application was using Tomcat 10.1.18.
+
+<br>
+
+
 - 🎨 [`Painting objects in an image with colors`](https://github.com/dima666Sik/FillAllClosedElemsImg)
     - **Description:** This application processes a 40x40 black and white image in .bmp format. It performs a contour
       search for all objects on the image and fills those objects with a random color.
