@@ -13,8 +13,9 @@
 - 😋 [`Full-stack RESTful web application for ordering food`](https://github.com/dima666Sik/Fast-Food-Delivery-App)
     - **Description:** The developed web application provides features enabling users to conveniently place orders and
       interact with the application based on their roles. Even as a guest on the site, users can still order food,
-      although not all functionalities are available to them.
-
+      although not all functionalities are available to them. 
+    - I have the 2 branches of projects that contain monolithic application and 
+  application with microservices architecture. The last one more advanced.
 <br>
 
 - 🎈 [`Desktop application for reminds users of upcoming birthdays`](https://github.com/dima666Sik/AppBirthdays)
